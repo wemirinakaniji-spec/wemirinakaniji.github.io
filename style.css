@@ -58,20 +58,20 @@ li:before {
 table {
   border-spacing: 0;
   border-collapse: collapse;
-  border: solid 1px #f0f0f0;
+  border: solid 1px #FFC800;
   min-width: 70%;
 }
 tr {
   background-color: #fff;
 }
 tr:nth-child(2n) {
-  background-color: #f9f9f9;
+  background-color: #FFC800;
 }
 th {
   background: var(--theme-color);
   color: #fff;
 }
 th, td {
-  border: solid 1px #f0f0f0;
+  border: solid 1px #FFC800;
   padding: 0.5rem;
 }
